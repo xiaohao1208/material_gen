@@ -208,10 +208,13 @@ flowchart LR
 - `Avg HER ΔG (eV)`：越低越好，ours 更优时用 `↓`
 - `Stability Score` / `Synthesis Success Rate`：越高越好，ours 更优时用 `↑`
 
+[Final_Comparison](./results/metrics/final_comparison.md)
+
 | Method | Avg HER ΔG (eV) | Stability Score | Synthesis Success Rate |
 | --- | --- | --- | --- |
-| baseline | 0.0519 | 0.7428 | 100.0% |
-| Ours | ↓0.0505 | ↓0.7169 | ↓80.0% |
+| baseline | 0.1109 | 0.7805 | 100.0% |
+| Ours | ↓0.0567 | ↑0.9265 | 100.0% |
+
 
 ![Baseline Comparison](results/baseline_comparison.png)
 
