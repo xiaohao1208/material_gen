@@ -325,8 +325,8 @@ python test.py --method both --data-source materials_project --mp-cache-dir data
 
 运行期日志与指标：
 
-- `results/runtime_logs/<method>/epoch_metrics.csv`
-- `results/runtime_logs/<method>/step_metrics.csv`
+[//]: # (- `results/runtime_logs/<method>/epoch_metrics.csv`)
+[//]: # (- `results/runtime_logs/<method>/step_metrics.csv`)
 - `results/metrics/final_comparison.csv`
 - `results/metrics/final_comparison.md`
 
