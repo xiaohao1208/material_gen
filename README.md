@@ -330,15 +330,3 @@ python test.py --method both --data-source materials_project --mp-cache-dir data
 - `results/metrics/final_comparison.csv`
 - `results/metrics/final_comparison.md`
 
-## 项目输出自检清单
-
-- 仓库是否包含完整代码、`README.md` 和 `requirements.txt`
-- 模型是否能正常训练、保存权重并支持再训练
-- README 是否包含结构图、公式、实验参数、指标、创新点和对比表
-- `results/` 下是否存在 4 张核心图和 2 张辅助图
-- `results/generated_structures/` 下是否至少导出 10 个 baseline 结构文件和 10 个 ours 结构文件
-- `results/checkpoints/` 下是否存在 baseline 与 ours 的 best/latest 权重
-- `baseline_comparison.png` 是否清晰展示 3 项核心指标对比
-- `her_performance.png` 是否清晰展示 baseline 与 ours 的 `ΔG_H` 对比
-- `stability_curve.png` 是否同时展示稳定性与可合成性
-- `generated_structures.png` 是否与导出的结构文件对应
