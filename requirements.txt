@@ -1,0 +1,11 @@
+# Core runtime dependencies
+torch>=2.1
+pandas>=2.0
+matplotlib>=3.7
+requests>=2.31
+tqdm>=4.66
+
+# Optional but required when you want to expand the local Materials Project cache
+# with `--download-if-missing` or rebuild processed data from raw structures.
+mp-api>=0.46
+pymatgen>=2024.5

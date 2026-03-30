@@ -1,0 +1,4 @@
+| Method | Avg HER ΔG (eV) | Stability Score | Synthesis Success Rate |
+| --- | --- | --- | --- |
+| baseline | 0.1109 | 0.7805 | 100.0% |
+| Ours | ↓0.0567 | ↑0.9265 | 100.0% |

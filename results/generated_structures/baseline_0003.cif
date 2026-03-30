@@ -1,0 +1,25 @@
+data_baseline_0011_mp-1101023
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_cell_length_a                    3.2000
+_cell_length_b                    3.2000
+_cell_length_c                    18.0000
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 120.0000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1 Ni 0.1700 0.3100 0.5000
+S2 S 0.3400 0.6200 0.5000
+
+# formula = NiS
+# method = baseline
+# source = material_generation_aligned_baseline
+# her_delta_g = 0.0293
+# stability_score = 0.7626
+# synthesis_score = 0.8182
